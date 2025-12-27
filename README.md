@@ -28,8 +28,8 @@ Permite crear, listar, actualizar y eliminar tareas, con filtros y búsqueda.
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <url-del-repositorio>
-cd task-manager/backend
+git clone https://github.com/AbigailCo/Planificador-de-Tareas.git
+cd Planificador-de-Tareas/backend
 ```
 
 ### 2. Instalar dependencias
