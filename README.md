@@ -113,3 +113,7 @@ npm install
 ### Conexión con el backend
 
 La comunicación con el backend se realiza mediante Axios, centralizando la configuración en un helper: (src/util/api.js)
+
+<img width="756" height="491" alt="image" src="https://github.com/user-attachments/assets/33fe5763-c66e-45f7-85bc-d253e96c3681" />
+
+
