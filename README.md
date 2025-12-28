@@ -88,7 +88,7 @@ Los endpoints fueron probados utilizando Postman antes de integrar el frontend.
 ## Frontend - Instalación y ejecución
 ### 1. Instalar dependencias
 ```bash
-cd task-manager/frontend
+cd Planificador-de-Tareas/frontend
 npm install
 ```
 
@@ -115,5 +115,6 @@ npm install
 La comunicación con el backend se realiza mediante Axios, centralizando la configuración en un helper: (src/util/api.js)
 
 <img width="756" height="491" alt="image" src="https://github.com/user-attachments/assets/33fe5763-c66e-45f7-85bc-d253e96c3681" />
+
 
 
